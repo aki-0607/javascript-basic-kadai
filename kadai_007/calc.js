@@ -1,6 +1,6 @@
-let num = 30;
+let num = 13;
 
-console.log(num);
+// console.log(num);
 
 switch (true) {
   case num % 3 == 0&& num % 5 == 0:
